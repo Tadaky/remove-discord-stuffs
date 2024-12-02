@@ -1,0 +1,44 @@
+/* remove nitro buttom */
+.channel_c91bad[aria-posinset="2"] {
+    display: none;
+}
+
+/* remove app launcher */
+.channelAppLauncher_df39bd {
+    display: none;
+}
+
+/* remove Bookmarks */
+.iconWrapper_fc4f04[aria-label="Bookmarks"] {
+    display: none;
+}
+
+/* remove Help */
+.iconWrapper_fc4f04[aria-label="Help"] {
+    display: none;
+}
+
+/* remove Notification Settings */
+.iconWrapper_fc4f04[aria-label="Notification Settings"] {
+    display: none;
+}
+
+/* remove Send a gift */
+.buttons_bdf0de > [aria-label="Send a gift"] {
+    display: none;
+}
+
+/* remove Open GIF picker */
+.button_dd4f85[aria-label="Open GIF picker"] {
+    display: none;
+}
+
+/* remove Open sticker picker */
+.button_dd4f85[aria-label="Open sticker picker"] {
+    display: none;
+}
+
+/* remove Select emoji */
+.emojiButtonNormal_d91a75[aria-label="Select emoji"] {
+    display: none;
+}
