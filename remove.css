@@ -52,3 +52,13 @@ img[src="https://cdn.discordapp.com/badge-icons/7d9ae358c8c5e118768335dbe68b4fb8
 .timestamp_f9f2ca {
     display: none;
 }
+
+/*Remove Open call balls mute/cam*/ 
+.statusContainer_ba4b17 {
+    display: none;
+}
+
+/*Remove Open side call mute/cam/live*/ 
+.iconSpacing_d80634 {
+    display: none;
+}
