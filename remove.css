@@ -24,7 +24,7 @@
 }
 
 /* remove Send a gift */
-.buttons_bdf0de > [aria-label="Send a gift"] {
+.container_fdeb78 > [aria-label="Send a gift"] {
     display: none;
 }
 
