@@ -27,6 +27,9 @@
 .container_fdeb78 > [aria-label="Send a gift"] {
     display: none;
 }
+.app_a01fb1 button[aria-label="Send a gift"] {
+    display: none;
+}
 
 /* remove Open GIF picker */
 .button_dd4f85[aria-label="Open GIF picker"] {
@@ -45,11 +48,6 @@
 
 /* remove Quest Badge */
 img[src="https://cdn.discordapp.com/badge-icons/7d9ae358c8c5e118768335dbe68b4fb8.png"] {
-    display: none;
-}
-
-/* remove Timestamp Cozymode */
-.timestamp_f9f2ca {
     display: none;
 }
 
