@@ -42,7 +42,7 @@
 }
 
 /* remove Select emoji */
-.emojiButtonNormal_d91a75[aria-label="Select emoji"] {
+/*.emojiButtonNormal_d91a75[aria-label="Select emoji"] {
     display: none;
 }
 
